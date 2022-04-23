@@ -1,0 +1,74 @@
+html , body{
+    font-family: sans-serif;
+}
+
+.formulario {
+    width: 500px; 
+    margin: 0 auto;
+    border: solid 1px;
+    border-radius: 20px;
+    background-color: #08298A;
+    color: white;
+}
+
+h1 {
+    padding: 0px 0px 10px 0px;
+    border-bottom: 3px solid #000;
+    
+}
+
+.subtitulo {  
+    
+    
+    
+}
+
+div {    
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-bottom: 5px;
+}
+
+.rotulos {
+    float: left;
+    width: 20%;
+    margin-left: 50px;
+    margin-top: 7px;
+    text-shadow: 4px 4px 4px black;
+        
+}
+
+.campoTexto {
+    border: none;    
+    width: 60%;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    background-color: #CEECF5;
+    padding: 10px;
+    box-shadow: 2px 2px 2px black;
+    
+}
+
+.campoSelecao{
+	background-color: #FF8000;
+    border-radius: 4px;
+    margin-bottom: 30px;
+    padding: 5px 65px;
+    
+}
+
+.botao {
+    border: none;
+    border-radius: 4px;
+    margin-bottom: 30px;
+    background-color: black;
+    color: white;
+    padding: 10px 25px;
+}
+
+.botao:hover {    
+    background-color: #EBEBEB;
+    color: black;
+
+}
+
